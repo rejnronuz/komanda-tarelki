@@ -14,7 +14,7 @@
 ## установка
 --описание процесса установки продукта.
 
-```
+```powershell / pip
 pip install bebrafoniy
 ```
 
