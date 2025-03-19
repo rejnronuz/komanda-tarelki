@@ -11,4 +11,4 @@
 ## участники
 в разработке участвовали Марк Кравченко, Семён Аверьянов и Рамазан Загиров
 
-![swag](https://i.imgur.com/TMvoRFU.png)
+![swag](https://img-webcalypt.ru/storage/memes/153683/20252/qOo9Y4ztSgnBCoRUGdkw2s8Xwa7NoKyFBNfhoN3mgGmsFaNT9VV6tvtSnViLRxwvNUNNt6KngwisPwqAtH0x0vLrou2MWCrUpH5D6IHS8KBrAjU0suBToAaeF7KVJsku-md.jpeg)
