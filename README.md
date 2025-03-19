@@ -11,4 +11,4 @@
 ## участники
 в разработке участвовали Марк Кравченко, Семён Аверьянов и Рамазан Загиров
 
-![thinkingabtit](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnPBiS9s9v-kWFsDzsP_4J992nR7RXYKGBLIq5y6RV0E0-k88ef7SEyyq-7Q0GVPWscF8&usqp=CAU)
+![swag](https://i.imgur.com/TMvoRFU.png)
