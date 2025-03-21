@@ -3,6 +3,7 @@ import time
 
 WAIT_TIME = 0.5
 
+# my coworker be losing his fucking mind bro LMAOQOOO what is this
 
 class Weapon:
     # класс для создания оружия
