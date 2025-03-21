@@ -18,4 +18,4 @@
 ## Участники
 В разработке участвовали Марк Кравченко, Семён Аверьянов и Рамазан Загиров
 
-![thisshitlaced]([https://i1.sndcdn.com/artworks-GpzTlvFv6Kmn6eU6-Z7C4oQ-t500x500.jpg](https://i1.sndcdn.com/artworks-cvJibSRE9renkHhB-K9F4mg-t1080x1080.jpg))
+![thisshitlaced](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWWTAW4qJgpCVyr0SyiWqwJ9nRiJTt33kbnQ&s)
