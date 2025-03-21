@@ -18,4 +18,4 @@
 ## Участники
 В разработке участвовали Марк Кравченко, Семён Аверьянов и Рамазан Загиров
 
-![thisshitlaced](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWWTAW4qJgpCVyr0SyiWqwJ9nRiJTt33kbnQ&s)
+![thisshitlaced](https://s1.iconbird.com/ico/0912/ColorfulMorningIconSet/w256h2561348316878Cheat.png)
